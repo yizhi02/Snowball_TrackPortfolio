@@ -1,4 +1,4 @@
-# SnowballPortfolioTracker
+# Snowball Portfolio Tracker
 
 Track portfolio rebalancing events from xueqiu.com and receive real-time notifications via Telegram.
 
