@@ -10,7 +10,7 @@ Track portfolio rebalancing events from xueqiu.com and receive real-time notific
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SnowballPortfolioTracker.git
+   git clone https://github.com/yizhi02/SnowballPortfolioTracker.git
    ```
 2. Install dependencies:
    ```bash
